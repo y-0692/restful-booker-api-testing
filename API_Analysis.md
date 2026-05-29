@@ -37,5 +37,5 @@ Required for:
 ## Expected Response
 
 Create Booking:
-- bookingid
+- bookingid (integer)
 - booking object
